@@ -1,1 +1,3 @@
-<img src="logo.png" alt="Samar Masonry Construction Logo" class="logo">
+<div class="logo-box">
+<img src="./logo.png" alt="Samar Masonry Construction Logo" class="logo">
+</div>
